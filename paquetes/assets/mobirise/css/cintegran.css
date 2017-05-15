@@ -1,0 +1,99 @@
+@charset "UTF-8";
+
+.btn-primary{
+    background-color:#3498db;
+    font-weight:bolder;
+}
+
+.btn-primary:hover{ background-color: #67B2E4; }
+
+h3#social-title{
+    color:#67B2E4 !important;
+    text-shadow: 2px 3px 2px black;
+}
+
+em{
+    font-style:normal;
+    color:#3498DB;
+    font-weight:bolder;
+    font-size:110%;
+}
+
+footer p{ color:white; }
+
+h1,h2{
+    color: white;
+    font-weight: bolder;
+}
+h1 span{
+    font-size: 130%;
+}
+h2 span{
+    display: none;
+}
+
+h4{
+    color:#3498DB;
+}
+
+section#social-buttons2-4{
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
+blockquote{ border-color:#3498DB !important; }
+
+dfn, 
+blockquote em{
+    font-weight: bold;
+    color:#3498DB;
+    font-style: normal;
+}
+
+table{
+    text-align:center;
+    color:white;
+}
+
+table span.mbr-iconfont{
+    line-height:25px;
+}
+
+table td p{
+    line-height:10px;
+}
+
+footer a{
+    font-size-adjust: auto;
+    font-size: 110%;
+    text-decoration: underline;
+    color: white !important;
+}
+
+/* --- LITE TABLE --- */
+table.lite-table tr:nth-child(odd) td{ background-color:rgb(0, 171, 222); }
+table.lite-table tr:nth-child(even){ background-color:rgb(153, 221, 242); }
+
+/* --- ONE TABLE --- */
+table.one-table tr:nth-child(odd) td{ background-color:rgb(0, 45, 132); }
+table.one-table tr:nth-child(even){ background-color:rgb(153, 171, 206); }
+
+/* --- BASIC TABLE --- */
+table.basic-table tr:nth-child(odd) td{ background-color:rgb(243, 65, 96); }
+table.basic-table tr:nth-child(even){ background-color:rgb(250, 179, 191); }
+
+/* --- BASIC PRO TABLE --- */
+table.basic-pro-table tr:nth-child(odd) td{ background-color:rgb(244, 80, 24); }
+table.basic-pro-table tr:nth-child(even){ background-color:rgb(251, 185, 163); }
+
+/* --- BUSINESS PLUS TABLE --- */
+table.business-plus-table tr:nth-child(odd) td{ background-color:rgb(160, 77, 146); }
+table.business-plus-table tr:nth-child(even){ background-color:rgb(217, 184, 211); }
+
+/* --- BUSINESS EM TABLE --- */
+table.business-em-table tr:nth-child(odd) td{ background-color:rgb(91, 90, 93); }
+table.business-em-table tr:nth-child(even){ background-color:rgb(189, 189, 189); }
+
+/* --- JUNIOR TABLE --- */
+table.junior-table tr:nth-child(odd) td{ background-color:#00963A; }
+table.junior-table tr:nth-child(even){ background-color:#006326; }

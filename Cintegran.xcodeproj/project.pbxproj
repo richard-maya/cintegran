@@ -1,0 +1,90 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXFileReference section */
+		10A958891DD4FCEC00352AEA /* 404.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = 404.html; sourceTree = "<group>"; };
+		10A958931DD4FCEC00352AEA /* bootstrap */ = {isa = PBXFileReference; lastKnownFileType = folder; path = bootstrap; sourceTree = "<group>"; };
+		10A958941DD4FCEC00352AEA /* css */ = {isa = PBXFileReference; lastKnownFileType = folder; path = css; sourceTree = "<group>"; };
+		10A958951DD4FCEC00352AEA /* email.php */ = {isa = PBXFileReference; lastKnownFileType = text.script.php; path = email.php; sourceTree = "<group>"; };
+		10A958971DD4FCEC00352AEA /* fonts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = fonts; sourceTree = "<group>"; };
+		10A958981DD4FCEC00352AEA /* img */ = {isa = PBXFileReference; lastKnownFileType = folder; path = img; sourceTree = "<group>"; };
+		10A958991DD4FCEC00352AEA /* index.php */ = {isa = PBXFileReference; lastKnownFileType = text.script.php; path = index.php; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.html; };
+		10A9589A1DD4FCEC00352AEA /* js */ = {isa = PBXFileReference; lastKnownFileType = folder; path = js; sourceTree = "<group>"; };
+		10D3AAA81DD65E48004256C2 /* logo.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = logo.html; sourceTree = "<group>"; };
+		10D3AAA91DD692E3004256C2 /* paquetes */ = {isa = PBXFileReference; lastKnownFileType = folder; path = paquetes; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		10A9586E1DD4FC8A00352AEA = {
+			isa = PBXGroup;
+			children = (
+				10A958891DD4FCEC00352AEA /* 404.html */,
+				10A958931DD4FCEC00352AEA /* bootstrap */,
+				10A958941DD4FCEC00352AEA /* css */,
+				10A958951DD4FCEC00352AEA /* email.php */,
+				10A958971DD4FCEC00352AEA /* fonts */,
+				10A958981DD4FCEC00352AEA /* img */,
+				10A958991DD4FCEC00352AEA /* index.php */,
+				10D3AAA91DD692E3004256C2 /* paquetes */,
+				10D3AAA81DD65E48004256C2 /* logo.html */,
+				10A9589A1DD4FCEC00352AEA /* js */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		10A9586F1DD4FC8A00352AEA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0810;
+			};
+			buildConfigurationList = 10A958721DD4FC8A00352AEA /* Build configuration list for PBXProject "Cintegran" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 10A9586E1DD4FC8A00352AEA;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		10A958731DD4FC8A00352AEA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		10A958741DD4FC8A00352AEA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		10A958721DD4FC8A00352AEA /* Build configuration list for PBXProject "Cintegran" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				10A958731DD4FC8A00352AEA /* Debug */,
+				10A958741DD4FC8A00352AEA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 10A9586F1DD4FC8A00352AEA /* Project object */;
+}
