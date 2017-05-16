@@ -95,5 +95,9 @@ table.business-em-table tr:nth-child(odd) td{ background-color:rgb(91, 90, 93); 
 table.business-em-table tr:nth-child(even){ background-color:rgb(189, 189, 189); }
 
 /* --- JUNIOR TABLE --- */
-table.junior-table tr:nth-child(odd) td{ background-color:#00963A; }
-table.junior-table tr:nth-child(even){ background-color:#006326; }
+table.junior-table tr:nth-child(odd) td{ background-color:#00AC00; }
+table.junior-table tr:nth-child(even){ background-color:#99DE99; }
+
+/* --- RIF TABLE --- */
+table.rif-table tr:nth-child(odd) td{ background-color:#875132; }
+table.rif-table tr:nth-child(even){ background-color:#CFB9AD; }
