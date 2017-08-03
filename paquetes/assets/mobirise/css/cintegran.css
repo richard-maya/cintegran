@@ -101,3 +101,7 @@ table.junior-table tr:nth-child(even){ background-color:#99DE99; }
 /* --- RIF TABLE --- */
 table.rif-table tr:nth-child(odd) td{ background-color:#875132; }
 table.rif-table tr:nth-child(even){ background-color:#CFB9AD; }
+
+/* --- SIGN UP TABLE --- */
+table.sign-table tr:nth-child(odd) td{ background-color:#4A6A9D; }
+table.sign-table tr:nth-child(even){ background-color:#A5B5CE; }

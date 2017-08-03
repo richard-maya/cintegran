@@ -632,7 +632,7 @@ permitan la comunicacion, la integracion y el análisis, apoyados de elementos t
             ============================== -->
             <div class="portfolio-item icon">
                <div class="portfolio">
-                  <a href="paquetes/facturacion-electronica-rif.html" title="EASyS Web Rif" rel="tag">
+                  <a href="paquetes/paquete-facturacion.php?id=1" title="EASyS Web Rif" rel="tag">
                     <img src="img/portfolio/8-rif.png" alt="Portfolio 1"/><!-- END PORTFOLIO IMAGE -->
                     <div class="portfolio-overlay hvr-rectangle-out">
                         <h2 class="margin-bottom-small">
@@ -650,7 +650,7 @@ permitan la comunicacion, la integracion y el análisis, apoyados de elementos t
             ============================== -->
             <div class="portfolio-item print">
                 <div class="portfolio">
-                    <a href="paquetes/facturacion-electronica-lite.html" title="EASyS Web Lite" rel="tag">
+                    <a href="paquetes/paquete-facturacion.php?id=2" title="EASyS Web Lite" rel="tag">
                         <img src="img/portfolio/1-lite.png" alt="Portfolio 1"/><!-- END PORTFOLIO IMAGE -->
                         <div class="portfolio-overlay hvr-rectangle-out">
                             <h2 class="margin-bottom-small">
@@ -668,7 +668,7 @@ permitan la comunicacion, la integracion y el análisis, apoyados de elementos t
             ============================== -->
             <div class="portfolio-item photography">
                <div class="portfolio">
-                  <a href="paquetes/facturacion-electronica-one.html" title="EASyS Web One" rel="tag">
+                  <a href="paquetes/paquete-facturacion.php?id=3" title="EASyS Web One" rel="tag">
                     <img src="img/portfolio/2-one.png" alt="Portfolio 2"/><!-- END PORTFOLIO IMAGE -->
                     <div class="portfolio-overlay hvr-rectangle-out">
                         <h2 class="margin-bottom-small">
@@ -686,7 +686,7 @@ permitan la comunicacion, la integracion y el análisis, apoyados de elementos t
             ============================== -->
             <div class="portfolio-item photography">
                <div class="portfolio">
-                  <a href="paquetes/facturacion-electronica-basic.html" title="EASyS Web Basic" rel="tag">
+                  <a href="paquetes/paquete-facturacion.php?id=4" title="EASyS Web Basic" rel="tag">
                     <img src="img/portfolio/3-basic.png" alt="Portfolio 1"/><!-- END PORTFOLIO IMAGE -->
                     <div class="portfolio-overlay hvr-rectangle-out">
                         <h2 class="margin-bottom-small">
@@ -704,7 +704,7 @@ permitan la comunicacion, la integracion y el análisis, apoyados de elementos t
             ============================== -->
             <div class="portfolio-item print">
                <div class="portfolio">
-                  <a href="paquetes/facturacion-electronica-basic-pro.html" title="EASyS Web Basic Pro" rel="tag">
+                  <a href="paquetes/paquete-facturacion.php?id=5" title="EASyS Web Basic Pro" rel="tag">
                     <img src="img/portfolio/4-basic-pro.png" alt="Portfolio 1"/><!-- END PORTFOLIO IMAGE -->
                     <div class="portfolio-overlay hvr-rectangle-out">
                         <h2 class="margin-bottom-small">
@@ -722,7 +722,7 @@ permitan la comunicacion, la integracion y el análisis, apoyados de elementos t
             ============================== -->
             <div class="portfolio-item ui">
                <div class="portfolio">
-                  <a href="paquetes/facturacion-electronica-junior.html" title="EASyS Web Junior" rel="tag">
+                  <a href="paquetes/paquete-facturacion.php?id=6" title="EASyS Web Junior" rel="tag">
                     <img src="img/portfolio/5-junior.png" alt="Portfolio 1"/><!-- END PORTFOLIO IMAGE -->
                     <div class="portfolio-overlay hvr-rectangle-out">
                         <h2 class="margin-bottom-small">
@@ -740,7 +740,7 @@ permitan la comunicacion, la integracion y el análisis, apoyados de elementos t
             ============================== -->
             <div class="portfolio-item web-design">
                <div class="portfolio">
-                  <a href="paquetes/facturacion-electronica-business-plus.html" title="EASyS Web Business Plus" rel="tag">
+                  <a href="paquetes/paquete-facturacion.php?id=7" title="EASyS Web Business Plus" rel="tag">
                     <img src="img/portfolio/6-business-plus.png" alt="Portfolio 1"/><!-- END PORTFOLIO IMAGE -->
                     <div class="portfolio-overlay hvr-rectangle-out">
                         <h2 class="margin-bottom-small">
@@ -758,7 +758,7 @@ permitan la comunicacion, la integracion y el análisis, apoyados de elementos t
             ============================== -->
             <div class="portfolio-item web-design">
                <div class="portfolio">
-                  <a href="paquetes/facturacion-electronica-business-em.html" title="EASyS Web Business EM" rel="tag">
+                  <a href="paquetes/paquete-facturacion.php?id=8" title="EASyS Web Business EM" rel="tag">
                     <img src="img/portfolio/7-business-pro.png" alt="Portfolio 1"/><!-- END PORTFOLIO IMAGE -->
                     <div class="portfolio-overlay hvr-rectangle-out">
                         <h2 class="margin-bottom-small">
@@ -1023,7 +1023,7 @@ permitan la comunicacion, la integracion y el análisis, apoyados de elementos t
                     <p class="copyright">
                         &copy; Derechos Reservados <abbr title="Grupo Empresarial">GEM</abbr> Cintegran S.A de C.V 2017 &reg;
                     </p>
-                    <a href="docs/aviso-privacidad-00000156399.pdf" rel="license" target="_blank" download="cintegran-aviso-privacidad">Aviso de Privacidad</a>
+                    <a href="docs/cintegran-aviso-privacidad.pdf" rel="license" target="_blank">Aviso de Privacidad</a>
                 </div>
             </div>
         </div>
