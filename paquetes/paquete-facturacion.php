@@ -443,7 +443,7 @@ table.rif-table tr:nth-child(even){ background-color:#CFB9AD; }
       </section>
       <footer class="mbr-small-footer mbr-section mbr-section-nopadding" id=footer1-5 style=padding-top:1.75rem;padding-bottom:1.75rem>
          <div class=container>
-            <p class=text-xs-center> © Derechos Reservados <abbr title="Grupo Empresarial">GEM</abbr> Cintegran S.A. de C.V. 2017 ® <br> <a href=../docs/aviso-privacidad-00000156399.pdf rel=license target=_blank download=cintegran-aviso-privacidad>Aviso de Privacidad</a> </p>
+            <p class=text-xs-center> © Derechos Reservados <abbr title="Grupo Empresarial">GEM</abbr> Cintegran S.A. de C.V. 2017 ® <br> <a href="../docs/cintegran-aviso-privacidad.pdf" rel="license" target="_blank">Aviso de Privacidad</a> </p>
          </div>
       </footer>
       <script src=assets/web/assets/jquery/jquery.min.js></script> <script src=assets/tether/tether.min.js></script> <script src=assets/bootstrap/js/bootstrap.min.js></script> <script src=assets/smooth-scroll/SmoothScroll.js></script> <script src=assets/viewportChecker/jquery.viewportchecker.js></script> <script src=assets/jarallax/jarallax.js></script> <script src=assets/dropdown/js/script.min.js></script> <script src=assets/touchSwipe/jquery.touchSwipe.min.js></script> <script src=assets/theme/js/script.js></script> <input name=animation type=hidden> 
