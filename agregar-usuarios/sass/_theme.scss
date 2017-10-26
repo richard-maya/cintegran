@@ -1,0 +1,33 @@
+@mixin transition($time){
+    transition: all $time ease-out;
+}
+
+@mixin easys-shadow($horizontal, $color){
+    box-shadow: $horizontal 2px 5px 0 $color;
+}
+
+form{
+    padding: 2rem 0px !important;
+
+    input:hover{
+        border-color: $easys-red;
+    }
+    input:focus{
+        @include easys-shadow(0, darken($easys-red,10%));
+        @include transition(200ms);
+        border-color: $easys-red;
+    }
+    input[type='number']{
+        -moz-appearance:textfield !important;
+    }
+    input::-webkit-outer-spin-button,
+    input::-webkit-inner-spin-button {
+        -webkit-appearance: none;
+    }
+    #uso-cfdi-div,
+    #residencia-fiscal-div,
+    #identificacion-fiscal-div{
+        display: none;
+        visibility: hidden;
+    }
+}
